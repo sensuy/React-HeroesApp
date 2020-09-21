@@ -8,6 +8,8 @@ import { MarvelScreen } from '../components/marvel/MarvelScreen';
 import { SearchScreen } from '../components/search/SearchScreen';
 
 export const DashboardRoutes = () => {
+
+
 	return (
 		<>
 			<Navbar />
